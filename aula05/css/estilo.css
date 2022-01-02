@@ -1,0 +1,35 @@
+html {
+    background: rgb(189,188,215);
+    background: linear-gradient(90deg, rgba(189,188,215,1) 0%, rgba(169,221,232,1) 100%);
+}
+
+body{
+    background-color: rgb(22, 22, 22);
+    color: rgb(255, 255, 255);
+    padding: 1%;
+    margin: 12%;
+    border: blanchedalmond solid 5px;
+    font-size: 12pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botao{
+    background: white;
+    color: black;
+    width: auto;
+    height: 40px;
+    border: none;
+    font-weight: bolder;
+    display: block;
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    background: white;
+    padding: 8px 5px;
+    font-weight: bolder;
+    font-size: small;
+    margin: 20px;
+}

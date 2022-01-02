@@ -1,0 +1,43 @@
+Construir uma classe chamada ContaBanco com os seguintes atributos:
+
+publico   - numConta - aleatório de 4 números
+protegido - tipo     - poupança ou corrente
+privado   - dono     - nome
+privado   - saldo    - float
+privado   - status   - aberta ou fechada
+
+E com os seguintes métodos, todos públicos:
+
+abrirConta()
+fecharConta()
+depositar()
+sacar()
+pagarMensalidade()
+
+Além disso, todos os atributos terão getters e setters.
+
+O construtor
+Status deve ser definido como falso.
+
+Regras de alguns atributos e métodos:
+
+tipo
+pode ser "cc" para conta corrente ou "cp" para conta poupança
+
+abrirConta()
+muda o status para verdadeiro e recebe o tipo da conta. Se for aberta 
+uma conta "cc", começa com 50 reais. Se "cp", ganha 150 reais.
+
+fecharConta()
+Não pode ter dinheiro, nem débitos. O saldo tem que ser 0.
+
+depositar()
+Status tem que estar true.
+
+sacar()
+Status tem que estar true e tem que ter saldo suficiente.
+
+pagarMensalidade()
+Se uma conta "cc", mensalidade de 12 reais. Se "cp", custa 20 reais.
+
+

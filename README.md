@@ -23,23 +23,23 @@
 
 <h2 id='objetivo'>Temas</h2>
 
-* <h3>Aula 02</h3>
+* <h3><a href="https://github.com/laribrito/Poo-php/tree/main/aula02">Aula 02</h3>
 
 Criar classes e objetos
 
-* <h3>Aula 03</h3>
+* <h3><a href="https://github.com/laribrito/Poo-php/tree/main/aula03">Aula 03</h3>
 
 Visibilidade de atributos e métodos: private, public e protected
 
-* <h3>Aula 04</h3>
+* <h3><a href="https://github.com/laribrito/Poo-php/tree/main/aula04">Aula 04</h3>
 
 Métodos especias: getters, setters e construct
 
-* <h3>Aula 05</h3>
+* <h3><a href="https://github.com/laribrito/Poo-php/tree/main/aula05">Aula 05</h3>
 
 Pequeno projeto para praticar
 
-* <h3>Aula 06</h3>
+* <h3><a href="https://github.com/laribrito/Poo-php/tree/main/aula06">Aula 06</h3>
 
 Encapsulamento: interface vs classe
 
